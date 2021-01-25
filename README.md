@@ -22,6 +22,9 @@ Những tính năng nổi bật:
  - Dễ dàng tích hợp với các công cụ báo cáo như: Business Intelligence, Analytics, Data Integration Tools.
 
 # Tìm hiểu về mapreduce
+
+<p align = "center"><img src="https://s3-ap-southeast-1.amazonaws.com/kipalog.com/m%C3%B4%20h%C3%ACnh%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng.png_5a3zte8t56"/>
+
 Mapreduce là một mô hình lập trình, thực hiện quá trình xử lý tập dữ liệu lớn. Mapreduce gồm 2 pha : map và reduce.
  - Hàm Map : Các xử lý một cặp (key, value) để sinh ra một cặp (keyI, valueI) - key và value trung gian. Dữ liệu này input vào hàm Reduce.
  - Hàm Reduce : Tiếp nhận các (keyI, valueI) và trộn các cặp (keyI, valueI) trung gian , lấy ra các valueI có cùng keyI.
